@@ -5,11 +5,32 @@
   "scripts": {
     "dev": "next dev",
     "build": "next build",
-    "start": "next start"
+    "start": "next start",
+    "storybook": "start-storybook -p 6006",
+    "build-storybook": "build-storybook",
+    "deploy-storybook": "storybook-to-ghpages"
   },
   "dependencies": {
     "next": "10.1.2",
     "react": "17.0.2",
     "react-dom": "17.0.2"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.13.14",
+    "@storybook/addon-actions": "^6.2.1",
+    "@storybook/addon-essentials": "^6.2.1",
+    "@storybook/addon-knobs": "^6.2.3",
+    "@storybook/addon-links": "^6.2.1",
+    "@storybook/addon-notes": "^5.3.21",
+    "@storybook/react": "^6.2.1",
+    "@storybook/storybook-deployer": "^2.8.7",
+    "babel-loader": "^8.2.2",
+    "emotion": "9.2.12",
+    "fbjs": "^3.0.0",
+    "react-emotion": "9.2.12",
+    "react-transition-group": "^4.4.1",
+    "unify-icons": "0.6.0-dev-1",
+    "unify-react-desktop": "0.7.0-dev-11",
+    "unify-token": "2.0.0-beta-14"
   }
 }
