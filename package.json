@@ -29,8 +29,8 @@
     "fbjs": "^3.0.0",
     "react-emotion": "9.2.12",
     "react-transition-group": "^4.4.1",
-    "unify-icons": "0.6.0-dev-1",
-    "unify-react-desktop": "0.7.0-dev-11",
+    "unify-icons": "0.6.1-dev-1",
+    "unify-react-desktop": "0.7.0-dev-18",
     "unify-token": "2.0.0-beta-14"
   }
 }
