@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="5px" height="8px" viewBox="0 0 5 8" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 54.1 (76490) - https://sketchapp.com -->
+    <title>N200</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M1.71,7.29 L4.3,4.7 C4.69,4.31 4.69,3.68 4.3,3.29 L1.71,0.7 C1.08,0.08 4.54747351e-13,0.519 4.54747351e-13,1.41 L4.54747351e-13,6.58 C4.54747351e-13,7.48 1.08,7.92 1.71,7.29" id="path-1"></path>
+    </defs>
+    <g id="system-icon" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="02-System-Icons-/-navigation-/-arrow-small-/-right-/-01-primary" transform="translate(-10.000000, -8.000000)">
+            <g id="Group">
+                <g id="N200" transform="translate(10.000000, 8.000000)">
+                    <mask id="mask-2" fill="white">
+                        <use xlink:href="#path-1"></use>
+                    </mask>
+                    <use id="Mask" fill="#9FA6B0" xlink:href="#path-1"></use>
+                    <g id="Color/N200" mask="url(#mask-2)" fill="#9FA6B0">
+                        <g transform="translate(-10.000000, -8.000000)" id="Rectangle">
+                            <rect x="0" y="0" width="24" height="24"></rect>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

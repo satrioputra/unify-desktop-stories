@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="7px" height="11px" viewBox="0 0 7 11" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.4 (67378) - http://www.bohemiancoding.com/sketch -->
+    <title>Group 3</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <polygon id="path-1" points="0 0 6.11066115 0 6.11066115 10.1027612 0 10.1027612"></polygon>
+    </defs>
+    <g id="---&gt;&gt;-[NEW]-Breadcrumbs" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Components/Breadcrumbs" transform="translate(-100.000000, -9.000000)">
+            <g id="Group-38" transform="translate(93.000000, 4.000000)">
+                <g id="Group-3" transform="translate(7.000000, 5.000000)">
+                    <mask id="mask-2" fill="white">
+                        <use xlink:href="#path-1"></use>
+                    </mask>
+                    <g id="Clip-2"></g>
+                    <path d="M0.328661152,1.82866115 L3.55166115,5.05166115 L0.328661152,8.27366115 C-0.099338848,8.70166115 -0.110338848,9.38966115 0.301661152,9.80166115 C0.713661152,10.2136612 1.40066115,10.2016612 1.82866115,9.77366115 L5.80166115,5.80166115 C6.21366115,5.38966115 6.21366115,4.71366115 5.80166115,4.30166115 L1.82866115,0.328661152 C1.40066115,-0.099338848 0.713661152,-0.110338848 0.301661152,0.301661152 C-0.110338848,0.713661152 -0.099338848,1.40066115 0.328661152,1.82866115" id="Fill-1" fill="#42B549" mask="url(#mask-2)"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

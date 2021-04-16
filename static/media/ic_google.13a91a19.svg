@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.4 (67378) - http://www.bohemiancoding.com/sketch -->
+    <title>Group 2 Copy 2</title>
+    <desc>Created with Sketch.</desc>
+    <g id="---&gt;&gt;-[NEW]-Share-Button" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Components/Share/Collapse/Left" transform="translate(-46.000000, -6.000000)">
+            <g id="Group-11-Copy">
+                <g id="Group-2-Copy-2" transform="translate(46.000000, 6.000000)">
+                    <path d="M24,16 C24,20.4 20.4,24 16,24 L8,24 C3.6,24 0,20.4 0,16 L0,8 C0,3.6 3.6,0 8,0 L16,0 C20.4,0 24,3.6 24,8 L24,16 Z" id="Fill-3" fill="#DD4B39"></path>
+                    <path d="M15.7539,11.3477 L10.5019,11.3477 L10.5019,13.1747 L13.7059,13.1747 C13.2289,14.7627 11.8069,15.9147 10.1269,15.9147 C8.0559,15.9147 6.3759,14.1617 6.3759,11.9997 C6.3759,9.8377 8.0559,8.0847 10.1269,8.0847 C11.1709,8.0847 12.1139,8.5297 12.7939,9.2467 L14.0649,7.8047 C13.0499,6.7677 11.6599,6.1267 10.1269,6.1267 C7.0199,6.1267 4.4999,8.7557 4.4999,11.9997 C4.4999,15.2437 7.0199,17.8727 10.1269,17.8727 C12.8499,17.8727 15.2329,15.8557 15.7539,13.1747 L15.7539,11.3477 Z" id="Fill-21" fill="#FFFFFF"></path>
+                    <polygon id="Fill-23" fill="#FFFFFF" points="17.5049 10.3984 17.5049 11.5194 16.4309 11.5194 16.4309 12.4804 17.5049 12.4804 17.5049 13.6014 18.4259 13.6014 18.4259 12.4804 19.4999 12.4804 19.4999 11.5194 18.4259 11.5194 18.4259 10.3984"></polygon>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
